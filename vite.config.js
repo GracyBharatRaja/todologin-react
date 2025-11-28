@@ -5,5 +5,5 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   base: '/todologin-react/',
-  plugins: [tailwindcss(),react()],
+  plugins: [react()],
 })
